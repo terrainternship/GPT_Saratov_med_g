@@ -1,0 +1,17 @@
+openai
+tiktoken
+langchain
+chromadb
+python-telegram-bot
+load_dotenv
+faiss-cpu
+requests
+pydantic
+nltk
+gspread
+gdown
+ipywidgets
+markdown
+python3-markdown2
+langchain langchain_experimental
+opensearch-py
