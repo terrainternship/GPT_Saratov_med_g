@@ -1,1 +1,1 @@
-Hello, World!
+[Колаб для создания вопросов по БЗ с помощью GPT](https://colab.research.google.com/drive/1B-8B0jkHJ8jshMUuvO2PVT203vr52CJV?usp=sharing)
